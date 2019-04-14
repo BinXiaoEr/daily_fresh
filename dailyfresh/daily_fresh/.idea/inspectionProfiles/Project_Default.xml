@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="text1.booktext.admin.booktext" />
+          <option value="dailyfresh.user.models.*" />
+          <option value="dailyfresh.apps.user.views.celery_tasks" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
